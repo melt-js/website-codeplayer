@@ -1,5 +1,5 @@
 (() => {
-  const buildVersion = 'mwx36a67';
+  const buildVersion = 'mwx3pcm8';
   const cacheNamePrefix = 'codeplayer-website-assets-';
   const cacheName = `${cacheNamePrefix}${buildVersion}`;
   const configuredBase =
